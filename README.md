@@ -19,6 +19,6 @@ Welcome to the digital archive of my published newspaper columns on internationa
 ---
 
 ## Connect & Follow My Work
-* **Substack:** [[Add your Substack link here]](https://substack.com/refer/nidaamirafridi)
-* **YouTube:** [[@historical autopsy](https://youtube.com)](https://www.youtube.com/@HistoricalAutopsy)
-* **LinkedIn:** [[Add your LinkedIn link here]](https://www.linkedin.com/in/nida-amir-afridi/)
+* **Substack:**https://substack.com/refer/nidaamirafridi
+* **YouTube:** (https://www.youtube.com/@HistoricalAutopsy)
+* **LinkedIn:** https://www.linkedin.com/in/nida-amir-afridi/
